@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="nutricount.client/nutricount.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="nutricount.Server/nutricount.Server.csproj" />
+</Solution>
